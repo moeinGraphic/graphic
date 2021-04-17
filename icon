@@ -1,14 +1,26 @@
 [
   {
+    "file": "https://uupload.ir/files/fihi_calendar-3d-icon-small.png",
+    "image": "https://uupload.ir/files/fihi_calendar-3d-icon-small.png",
+    "text": "آیکون تقویم",
+    "text2": "ایکون تقویم به صورت 3D و جذاب"
+  },
+  {
     "file": "https://uupload.ir/files/5t4e_home-phone-3d-icon-small.png",
     "image": "https://uupload.ir/files/5t4e_home-phone-3d-icon-small.png",
     "text": "آیکون تلفن",
     "text2": "ایکون تلفن به صورت 3D و جذاب"
   },
   {
-    "file": "https://uupload.ir/files/fihi_calendar-3d-icon-small.png",
-    "image": "https://uupload.ir/files/fihi_calendar-3d-icon-small.png",
-    "text": "آیکون تقویم",
-    "text2": "ایکون تقویم به صورت 3D و جذاب"
+    "file": "https://uupload.ir/files/ga4l_clock-3d-icon-big.png",
+    "image": "https://uupload.ir/files/ga4l_clock-3d-icon-big.png",
+    "text": "آیکون ساعت ",
+    "text2": "ایکون ساعت به صورت سه بعدی "
+  },
+  {
+    "file": "https://uupload.ir/files/sbi0_headphones-3d-icon-small.png",
+    "image": "https://uupload.ir/files/sbi0_headphones-3d-icon-small.png",
+    "text": "آیکون هدفون ",
+    "text2": "ایکون هدفون جذاب "
   }
 ]
